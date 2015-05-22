@@ -1,0 +1,47 @@
+Datasheet#01_01 Followers of the Sand Cult
+
+Followers of the Sand Cult
+Unit composition: 3-5 models
+
+Follower of the Sand Cult {1+} [21pts]
+MOVE 4 STAMINA 1 INITIATIVE 3 MORALE 2
+WEAPON Sand-pulse carbin, Scimitar
+Sand Shadows, DigIn
+Model size: average, 25mm
+Model type: Infantry
+
+Summoner of the Sand Cult {0-1} [46pts]
+MOVE 4 STAMINA 1 INITIATIVE 3 MORALE 2
+WEAPON Sand-pulse carbin, Scimitar
+Sand Shadows, DigIn, Scorpion Lord
+Model size: average, 25mm
+Model type: Infantry
+
+Initiate of the Sand Cult {0-1} [36pts]
+MOVE 4 STAMINA 1 INITIATIVE 4 MORALE 3
+WEAPON Sand-pulse carbin, Scourge of sand
+Sand Shadows, DigIn, Leader
+Model size: average, 25mm
+Model type: Infantry
+
+OPTIONS
+All unit may take Amulets of Scorpion for [7pts] per model.
+
+ARMOURY
+[Sand-pulse carbine]
+Range 3 Damage 1 Range, Wind of Sand
+[Scimitar]
+Range - Damage 1 Melee, Specialist
+[Scourge]
+Range - Damage 2 Melee, Specialist, Bind
+[Amulet of Scorpion]
+Range - Damage 1 Melee, Specialist
+
+//Special rules(SR):
+[Sand Shadows] ???
+[DigIn] Models with this SR have benefits from Go To Ground action, even they do not have cover.
+[Leader] When Leader is on the table, you can take additional OrderCard to your hand (commulative).
+[Scorpion Lord] All units of 01faction which arrive from reserve with @DeepStrike@SR in 2 sectors of Scorpion Lord do no scatter.
+[Specialist] Model with several Specialist weapons can use them all in one phase, sum up the Damage and different SRs of this weapons.
+[Bind] When model with this SR attack, it has +1 to all rolls of damage to enemy.
+[Wind of Sand] When you damage unit, which is not in cover, you have +1 to all damage rolls. 

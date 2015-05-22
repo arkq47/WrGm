@@ -1,0 +1,40 @@
+Datasheet#01_02 Scorpions of Desert
+
+Scorpions of Desert
+Unit composition: 3-5 Scorpions of Desert OR 3 Scorpions of Desert and 1 Great Desert Scorpion
+
+Scorpions of Desert {3+} [17pts]
+MOVE 6 STAMINA 1 INITIATIVE 2 MORALE 4
+WEAPON Scorpion sting
+Deep Strike, DigIn
+Model size: small, 25mm
+Model type: Beast
+
+Great Desert Scorpion {0-1} [54pts]
+MOVE 6 STAMINA 3 INITIATIVE 2 MORALE 3
+WEAPON Great sting, Desert claws
+Deep Strike, DigIn, Protection
+Model size: average, 50mm
+Model type: Beast
+
+OPTIONS
+Great Desert Scorpion may take Quicksand for [15pts].
+
+ARMOURY
+[Scorpion sting]
+Range - Damage 1 Melee, Desert Blade
+[Great sting]
+Range - Damage 2 Melee, Specialist, Desert Blade
+[Desert claws]
+Range - Damage 2 Melee, Specialist, Crushing
+[Quicksand]
+Range - Damage 1 One-use, Sector-strike
+
+//Special rules(SR):
+[DigIn] Models with this SR have benefits from Go To Ground action, even they do not have cover.
+[Protection] You can use models Stamina for Defenders rolls, even it is not majority.
+[Sector-strike] All models in this sector suffer attacks from this weapon.
+[Specialist] Model with several Specialist weapons can use them all in one phase, sum up the Damage and different SRs of this weapons.
+[Desert Blade] In turn when model arrive from Deep Strike, it has re-rolls for melee attacks with this weapons.
+[One-use] Only one use per game.
+[Crushing] Attacks with this SR always resolve after others wound allocations, and they have re-rolls.

@@ -1,0 +1,54 @@
+Datasheet#01_03 Desert Mage
+
+Desert Mage
+Unit composition: 1 Desert Mage and 1-3 Desert Snakes
+
+Desert Mage {1} [150pts]
+MOVE 4 STAMINA 3 INITIATIVE 4 MORALE 4
+WEAPON Sand-pulse carbin, Scimitar, Scroll of Desert Secrets
+Sand Shadows, DigIn, Leader
+Model size: average, 25mm
+Model type: Infantry
+
+Desert Snake {1-3} [22pts]
+MOVE 6 STAMINA 1 INITIATIVE 3 MORALE 3
+WEAPON Poison jaw
+DigIn
+Model size: small, 25mm
+Model type: Beast
+
+OPTIONS
+Desert mage may change his Sand-pulse carbine/Scimitar to Sand staff for [10pts] and/or to Scourge of sand for [12pts].
+He may take Amulet of Scorpion for [7pts].
+
+ARMOURY
+[Poison jaw]
+Range - Damage 1 Melee, Desert Poison
+[Sand-pulse carbine]
+Range 3 Damage 1 Range, Wind of Sand
+[Scimitar]
+Range - Damage 1 Melee, Specialist
+[Scourge of sand]
+Range - Damage 2 Melee, Specialist, Bind
+[Amulet of Scorpion]
+Range - Damage 1 Melee, Specialist
+[Sand staff]
+Range - Damage 2 Melee, Specialist, Defensive
+[Scroll of Desert Secrets]
+In HOLD you can choose to activate Scroll of Desert Secrets instead of shoot. If you do this - roll 3 dices, you can re-roll them for each additional Desert Snake in unit, if you roll double - you can choose one of the following:
+1. Choose one your unit in Reserve, which will come with Deep Strike, this unit will arrive in this turn without any rolls(no reserve rolls, no scatter rolls)
+2. Choose one enemy unit on table, which has not got cover from potential attacker from your table side, this unit suffers artiller.dice damage with no cover, if @kabum@ - Desert Mage suffers one auto-wound.
+3. Choose one your unit in nearby sector(not diagonal), Desert Mage's unit and this unit have cover until end of turn.
+4. Choose one free sector, and arrive here with Deep Strike rules Rage Great Sandworm. This unit is like Great Sandworm, but has Crazy Behavior special rule, and counts as enemy for both players.
+
+//Special rules(SR):
+[Sand Shadows] ???
+[DigIn] Models with this SR have benefits from Go To Ground action, even they do not have cover.
+[Leader] When Leader is on the table, you can take additional OrderCard to your hand (commulative).
+[Defensive] When model fights in Close combat, opponents suffers -1 penalty for attack rolls.
+[Specialist] Model with several Specialist weapons can use them all in one phase, sum up the Damage and different SRs of this weapons.
+[Bind] When model with this SR attack, it has +1 to all rolls of damage to enemy.
+[Wind of Sand] When you damage unit, which is not in cover, you have +1 to all damage rolls.
+[Desert Poison] If attacks with this SR suffer wound opponent take penalty -1 to his next defense rolls.
+[Crazy Behavior] In start of Initiative phase of model with this SR choose the nearest unit(in sectors, randomly) and opponent of this unit move Crazy Behavior model the shortest way like if this model have Order RUSH, try to go to close combat.
+This rule does not work when model is in combat.

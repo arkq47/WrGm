@@ -1,0 +1,44 @@
+Datasheet#01_05 Desert Riders
+
+Desert Riders
+Unit composition: 1-3 models
+
+Desert Rider {0+} [54pts]
+MOVE 8 STAMINA 3 INITIATIVE 5 MORALE 4
+WEAPON Sand rifle, 2 Scimitars
+Sand Shadows, Desert's Coming, Outflank, Fear
+Model size: average, 25x50mm
+Model type: Cavalry
+
+Initiate Desert Rider {0-1} [59pts]
+MOVE 8 STAMINA 3 INITIATIVE 5 MORALE 6
+WEAPON Sand rifle, 2 Scimitars
+Sand Shadows, Desert's Coming, Outflank, Fear, Leader
+Model size: average, 25x50mm
+Model type: Cavalry
+
+OPTIONS
+Initiate Desert Rider may change one of his Scimitar to Scourge of sand for [10pts].
+All models may take Amulets of Scorpion for [7pts] per model.
+
+ARMOURY
+[Sand rifle]
+Range 5 Damage 2 Range, Wind of Sand
+[Scimitar]
+Range - Damage 1 Melee, Specialist
+[Scourge of sand]
+Range - Damage 2 Melee, Specialist, Bind
+[Amulet of Scorpion]
+Range - Damage 1 Melee, Specialist
+
+
+//Special rules(SR):
+[Sand Shadows] ???
+[Fear] When enemy in range 2sect of Fear model unit must to roll Morale check, it counts as taking +1 wound.
+[Leader] When Leader is on the table, you can take additional OrderCard to your hand (commulative).
+[Outflank] Model can arrive from Reserve from left or right side of table. roll d6 - 1-2 left 3-4 right 5-6 your decision.
+[Specialist] Model with several Specialist weapons can use them all in one phase, sum up the Damage and different SRs of this weapons.
+[Bind] When model with this SR attack, it has +1 to all rolls of damage to enemy.
+[Wind of Sand] When you damage unit, which is not in cover, you have +1 to all damage rolls. 
+[Desert's Coming] Model must start game in Reserve. When it arrives, after deteminate the position of coming, change all terrain type in coming sector and all sectors on the line to the side of table where are it coming from, to Desert.
+If model arrives with Deep Strike SR, it counts as it arrives from your side of table.

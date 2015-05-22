@@ -1,0 +1,41 @@
+Datasheet#01_04 Great Sandworm
+
+Great Sandworm
+Unit composition: 1 Great Sandworm and 1 Wormrider
+
+Great Sandworm {1} [180pts]
+MOVE 8 STAMINA 4 INITIATIVE 2 MORALE 3
+WEAPON Desert throat
+Crazy Behavior, Desert's Coming, Deep Strike, Tremor, Underground
+Model size: large, 50mm
+Model type: Monster
+
+Wormrider {1} [0pts]
+MOVE - STAMINA - INITIATIVE 3 MORALE 6
+WEAPON Amulet of worm
+Worm-controller
+Model size: included in Great Sandworm model
+Model type: not separatly model
+
+OPTIONS
+Wormrider may take Worm scourge for [15pts].
+
+ARMOURY
+[Desert throat]
+Range - Damage 6 Melee, Crushing
+[Amulet of worm]
+Amulet of worm safes the bearer from the attacks by worms with Crazy Behavior special rule.
+[Worm scourge]
+Worm becomes insane, when rider use his scourge. Great Sandworm has Insane special rule.
+
+
+//Special rules(SR):
+[Worm-controller] When worm has rider, it ignores Crazy Behavior SR. If worm takes wounds, roll so many d6 how many wound it takes.
+You must roll all dices better then number of wounds, if you do not this, the rider is killed and worm becomes crazy.
+[Crushing] Attacks with this SR always resolve after others wound allocations, and they have re-rolls.
+[Insane] If model takes wounds in this turn, it has bonus d6 damage in close combat.
+[Crazy Behavior] In start of Initiative phase of model with this SR choose the nearest unit(in sectors, randomly) and opponent of this unit move Crazy Behavior model the shortest way like if this model have Order RUSH, try to go to close combat, this rule does not work when model is in combat.
+[Desert's Coming] Model must start game in Reserve. When it arrives, after deteminate the position of coming, change all terrain type in coming sector and all sectors on the line to the side of table where are it coming from, to Desert.
+If model arrives with Deep Strike SR, it counts as it arrives from your side of table.
+[Underground] When model moves - ignore all terrain and models, it can move under ground. it cannot go to high floors.
+[Tremor] When model moves, all sectors on line of move(not the final and starting sector) getting damage(all floors) {DMG1,Sector-strike}.
