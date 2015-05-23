@@ -14,7 +14,7 @@ Great Desert Scorpion {0-1} [54pts]
 MOVE 6 STAMINA 3 INITIATIVE 2 MORALE 3
 WEAPON Great sting, Desert claws
 Deep Strike, DigIn, Protection
-Model size: average, 50mm
+Model size: high, 50mm
 Model type: Beast
 
 OPTIONS

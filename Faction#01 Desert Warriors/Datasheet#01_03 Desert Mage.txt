@@ -42,7 +42,7 @@ In HOLD you can choose to activate Scroll of Desert Secrets instead of shoot. If
 4. Choose one free sector, and arrive here with Deep Strike rules Rage Great Sandworm. This unit is like Great Sandworm, but has Crazy Behavior special rule, and counts as enemy for both players.
 
 //Special rules(SR):
-[Sand Shadows] ???
+[Sand Shadows] If unit contain at least one model with this SR, it has +50% move when start move in desert terrein type(when it rush = 250% of move).
 [DigIn] Models with this SR have benefits from Go To Ground action, even they do not have cover.
 [Leader] When Leader is on the table, you can take additional OrderCard to your hand (commulative).
 [Defensive] When model fights in Close combat, opponents suffers -1 penalty for attack rolls.

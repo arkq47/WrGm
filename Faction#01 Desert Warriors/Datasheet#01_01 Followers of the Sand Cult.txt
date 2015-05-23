@@ -32,13 +32,13 @@ ARMOURY
 Range 3 Damage 1 Range, Wind of Sand
 [Scimitar]
 Range - Damage 1 Melee, Specialist
-[Scourge]
+[Scourge of sand]
 Range - Damage 2 Melee, Specialist, Bind
 [Amulet of Scorpion]
 Range - Damage 1 Melee, Specialist
 
 //Special rules(SR):
-[Sand Shadows] ???
+[Sand Shadows] If unit contain at least one model with this SR, it has +50% move when start move in desert terrein type(when it rush = 250% of move).
 [DigIn] Models with this SR have benefits from Go To Ground action, even they do not have cover.
 [Leader] When Leader is on the table, you can take additional OrderCard to your hand (commulative).
 [Scorpion Lord] All units of 01faction which arrive from reserve with @DeepStrike@SR in 2 sectors of Scorpion Lord do no scatter.

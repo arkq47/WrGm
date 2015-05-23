@@ -33,7 +33,7 @@ Range - Damage 1 Melee, Specialist
 
 
 //Special rules(SR):
-[Sand Shadows] ???
+[Sand Shadows] If unit contain at least one model with this SR, it has +50% move when start move in desert terrein type(when it rush = 250% of move).
 [Fear] When enemy in range 2sect of Fear model unit must to roll Morale check, it counts as taking +1 wound.
 [Leader] When Leader is on the table, you can take additional OrderCard to your hand (commulative).
 [Outflank] Model can arrive from Reserve from left or right side of table. roll d6 - 1-2 left 3-4 right 5-6 your decision.
